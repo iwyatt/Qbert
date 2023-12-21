@@ -1,0 +1,16 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Published_Software\Qbert\|X:\Field-Marketing\Operations\Software\Qbert\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>\\fs\root\depts\Field-Marketing\Operations\Software\Qbert\</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+  </PropertyGroup>
+</Project>
